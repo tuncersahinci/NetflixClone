@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  NewAndHotViewController.swift
 //  NetflixClone
 //
 //  Created by Tuncer Şahinci on 8.04.2022.
@@ -7,13 +7,9 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class NewAndHotViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
-    // Do any additional setup after loading the view.
+    view.backgroundColor = .systemBackground
   }
-
-
 }
-
